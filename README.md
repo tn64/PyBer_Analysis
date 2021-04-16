@@ -57,7 +57,7 @@ The average fare per ride dropped as the size of the city increased. Presumably 
 
 As demonstrated in the graph below, total fares by city type did not show significant changes over the selected period. All three types of cities experienced a spike in fares during the third weel of February and a corresponding decline the following week. Fares then remained in a range of approximately $500 throughuot the following weeks of the period with urban fares experiencing the most volitility. 
 
-<img src=https://github.com/tn64/PyBer_Analysis/blob/main/Resources/total_fare_by_city_type.png>
+<img src=https://github.com/tn64/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png>
 
 ## Summary & Recommendations
 
