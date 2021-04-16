@@ -5,7 +5,7 @@
 
 ## Overview
 
-The scenario for this module is that we have been tasked with creating a summary DataFram of the ride-sharing data for PyBer. The DataFrame is to be used to analyze the data that the company has collected indexed by city type. Additionally we are to prepare a line graph showing the sum of fares for each city type, dispayed by week, over a four-month timeframe. This analysis will summarize how the data differs according to the type of city in order for the decision-makers to make informed decisions for the future of the company.
+The scenario for this module is that we have been tasked with creating a summary DataFrame of the ride-sharing data for PyBer. The DataFrame, indexed by city type, is to be used to analyze the data that the company has collected. Additionally we are to prepare a line graph showing the sum of fares for each city type, dispayed by week, over a four-month timeframe. This analysis will summarize how the data differs according to the type of city in order for the decision-makers to make informed decisions for the future of the company.
 
 ## Results
 
@@ -20,7 +20,8 @@ A final graph is presented for "Total Fare by City Type" in order to visualize t
 
 ### Total Ride Data
 
-There is a sigificant difference in the number of rides per city type. Though population size was not considered in the categories. - There were 500% more rides in the suburban cities than in rural cities, and 1300% more rides in urban cities than in rural cities.
+There is a sigificant difference in the number of rides per city type. Though population size was not considered in the categories. 
+- There were 500% more rides in the suburban cities than in rural cities, and 1,300% more rides in urban cities than in rural cities.
 - There were 260% more rides in urban cities than in suburban cities.
 
 <img src=https://github.com/tn64/PyBer_Analysis/blob/main/Resources/total_rides_by_city_type.png>
@@ -38,7 +39,7 @@ There are also sigificantly more drivers as the size of the cities increase.
 
 ### Total Fares Data
 
-The trends observed above were amplified for the total fares collected for each city type.
+The trends observed above continued for the total fares collected for each city type.
 - 447% more in fares was collected in suburban cities than in rural cities, and 921% more in fares collected in urban cities than in rural cities.
 - 205% more in fares were collected in urban cities than in suburban cities.
 
@@ -48,7 +49,7 @@ The trends observed above were amplified for the total fares collected for each 
 
 ### Average Fare per Ride and Driver Data
 
-The average fare per ride dropped as the size of the city increased. Presumably this was due to the average distance of the ride, however, ride distance was not provided in the data so ride distance information should be provided to better analyze this data.
+The average fare per ride dropped as the size of the city increased. Presumably this was due to the average distance of the ride, however, ride distance was not provided in the data.
 
 <img src=https://github.com/tn64/PyBer_Analysis/blob/main/Resources/average_fare_per_driver_per_city_type.png>
 
