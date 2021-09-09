@@ -5,7 +5,7 @@
 
 ## Overview
 
-This analysis examines the ride-sharing data for the fictitious compnay, PyBer. The DataFrame, indexed by city type, is to be used to analyze the data that the company has collected. Additionally a line graph showing the sum of fares for each city type, dispayed by week, over a four-month timeframe is displayed. This analysis summarizes how the data differs according to the type of city in order to allow  decision-makers to make informed decisions for the future of the company.
+This analysis examines the ride-sharing data for the fictitious company, PyBer. The DataFrame, indexed by city type, is to be used to analyze the data that the company has collected. Additionally, a line graph showing the sum of fares for each city type, displayed by week, over a four-month timeframe is displayed. This analysis summarizes how the data differs according to the type of city in order to allow decision-makers to make informed decisions for the future of the company.
 
 ## Tools
 - Python, Pandas, Matplotlib, Jupyter Notebook.
